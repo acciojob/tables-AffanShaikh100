@@ -5,3 +5,11 @@
 	text: end;
 	fw: bold
 }
+thead{
+	background: black;
+	color:white
+}
+tfoot{
+	text-align: right;
+	font-weight: 900;
+}
